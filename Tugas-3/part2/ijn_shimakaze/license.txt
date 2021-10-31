@@ -1,0 +1,11 @@
+Model Information:
+* title:	IJN Shimakaze
+* source:	https://sketchfab.com/3d-models/ijn-shimakaze-be00f2c298bb477f96e32572016f242a
+* author:	sk145 (https://sketchfab.com/6xr5c7t6vyuio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IJN Shimakaze" (https://sketchfab.com/3d-models/ijn-shimakaze-be00f2c298bb477f96e32572016f242a) by sk145 (https://sketchfab.com/6xr5c7t6vyuio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
